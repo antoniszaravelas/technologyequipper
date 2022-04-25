@@ -208,3 +208,13 @@ footer i {
   transform: scale(3);
   padding-top:10px;
 }
+
+
+.navbar-nav{
+  align-items:center !important;
+  margin: 0 auto !important;
+}
+
+.navbar-nav > a {
+  width:30%;
+}
