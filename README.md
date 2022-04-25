@@ -4,7 +4,7 @@
 
 My motivation to build this E-Commerce website was that I was tempted to learn more about how specific MERN technologies work (NodeJS, Creating a server providing a PORT, using Mongoose to manipulate data, find Users, create Models, using express etc.) in relation to each-other and build a full-stack App!
 
-Have a look in the deployed with Heroku version: [link to the e-commerce shop "techequipper"](https://techequipper.herokuapp.com/)
+Have a look in the deployed with Heroku version: [link to the e-commerce shop "techequipper"](https://technologyequipper.herokuapp.com/)
 
 ## Installation
 
