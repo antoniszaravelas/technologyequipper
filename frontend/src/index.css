@@ -209,12 +209,14 @@ footer i {
   padding-top:10px;
 }
 
-
-.navbar-nav{
-  align-items:center !important;
-  margin: 0 auto !important;
+@media only screen and (max-width:990px){
+  .navbar-nav{
+    align-items:center !important;
+    margin: 0 auto !important;
+  }
+  
+  .navbar-nav > a {
+    width:30%;
+  }
 }
 
-.navbar-nav > a {
-  width:30%;
-}
